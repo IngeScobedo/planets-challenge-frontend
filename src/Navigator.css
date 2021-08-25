@@ -1,0 +1,18 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav__logo{
+    color: aliceblue;
+    font-size: 25px;
+}
+.nav__list{
+    list-style: none;
+    display: flex;
+}
+.nav__list-element{
+    margin-right: 10px;
+    color: aliceblue;
+    font-size: 13px;
+}
